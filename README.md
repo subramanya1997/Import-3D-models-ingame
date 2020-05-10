@@ -1,4 +1,4 @@
-# Assimp to Procedural Mesh : UE4
+# Import 3D models ingame using Procedural Mesh and Assimp : UE4
  3D file importer to UE4 project at runtime using Assimp and Procedural Mesh
 
 #Assimp
